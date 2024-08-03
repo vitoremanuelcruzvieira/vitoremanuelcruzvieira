@@ -1,4 +1,5 @@
 ## {c:blue}Bem-vindo(a) ao perfil de Vitor Emanuel{/c} 😁
+Este é um {c:red}texto vermelho.{/c}
 
  <div>
    <a href="https://github.com/vitoremanuelcruzvieira">
