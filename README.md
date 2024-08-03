@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Vitor Emanuel 😁
+## {c🟦}Bem-vindo(a) ao perfil de Vitor Emanuel{/c} 😁
 
  <div>
    <a href="https://github.com/vitoremanuelcruzvieira">
