@@ -4,8 +4,8 @@ https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_
 
  <div>
    <a href="https://github.com/vitoremanuelcruzvieira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&show&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoremanuelcruzvieira&layout=compact&langs_count=6&theme=default"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoremanuelcruzvieira&show_icons=true&theme=radical&show&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoremanuelcruzvieira&layout=compact&langs_count=6&theme=radical"/>
 </div>
     
 <div style="display: inline_block"><br>
