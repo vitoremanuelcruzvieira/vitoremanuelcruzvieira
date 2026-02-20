@@ -10,6 +10,6 @@ Meu nome é Vitor Emanuel, sou desenvolvedor Front-End, atualmente aprendendo e 
 
 <br>
 
-[![Vitor Emanuel Stats](https://github-readme-stats-fast.vercel.app/api?username=vitoremanuelcruzvieira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vitoremanuelcruzvieira/github-readme-stats)
+[![Vitor Emanuel Stats](https://github-readme-stats-fast.vercel.app/api?username=vitoremanuelcruzvieira&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/vitoremanuelcruzvieira/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitoremanuelcruzvieira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vitoremanuelcruzvieira/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitoremanuelcruzvieira&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/vitoremanuelcruzvieira/github-readme-stats)
