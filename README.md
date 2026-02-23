@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End | HTML | CSS | JAVASCRIPT | GIT e GITHUB | REACT`**
 
-Me chamo Vitor Emanuel Cruz Vieira, tenho 43 anos e sou natural de Maricá - RJ. Eu trabalho há mais de 20 anos na área de infraestrutura e suporte aos usuários. No entanto, estou em fase de transição de carreira, pois sempre fui apaixonado pela área de programação. O meu objetivo é conseguir uma oportunidade na área de Desenvolvimento Web.
+<p align="justify">Me chamo Vitor Emanuel Cruz Vieira, tenho 43 anos e sou natural de Maricá - RJ. Eu trabalho há mais de 20 anos na área de infraestrutura e suporte aos usuários. No entanto, estou em fase de transição de carreira, pois sempre fui apaixonado pela área de programação. O meu objetivo é conseguir uma oportunidade na área de Desenvolvimento Web.</p>
 
 ### 🤖 Linguagens e Tecnologias
 
